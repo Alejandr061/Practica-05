@@ -15,16 +15,16 @@ sidebar:
     # Sidebar links
     email: alejandro.hidsan2006@gmail.com
     phone: +34 605 46 90 28
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Spain 
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
+    website: https://github.com/Alejandr061/Alejandr061/blob/main/index.md # Include the full website URL, including "http://" or "https://".
+    linkedin: Alejandr061
+    xing: Alejandr061
+    github: Alejandr061
+    telegram: Alejandro Hidalgo # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@alejandrohidalgo'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,27 +34,27 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Native
+        - idiom: Castellano
+          level: Nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: Italiano
+          level: B2
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Inglés
+          level: B1
 
     interests:
-      title: Interests
+      title: Hobbies
       info:
-        - item: Climbing
+        - item: Entrena en el gimansio
           link:
 
-        - item: Snowboarding
+        - item: Escuchar música
           link:
 
-        - item: Cooking
+        - item: Cocinar
           link:
 
 career-profile:
