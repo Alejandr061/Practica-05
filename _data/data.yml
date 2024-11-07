@@ -60,11 +60,11 @@ sidebar:
  # career-profile:
 
 education:
-    title: EDUCACIÓN Y FORMACIÓN
+    title: EDUCACIÓN
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: EDUCACIÓN SECUNDARIA OBLIGATÓRIA
+        university: Ies Llombai
+        time: 10/09/2018 – 21/06/2022 Burriana, España
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -73,9 +73,21 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: ESTUDIOS PROFESIONALES DE MÚSICA
+        university: Conservatori Professional de Música “Mestre Tàrrega”
+        time: 23/09/2018 – 19/06/2024 Castellón, España
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+            
+     - degree: GRADO MEDIO EN SISTEMAS MICROINFORMÁTICOS Y REDES
+        university: IES Jaume I
+        time: 13/09/2022 – 04/06/2024 Burriana, España
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -102,15 +114,15 @@ SOCORRISTA DE PISCINA Y AUXILIAR DE SERVICIO MAGIC WORLD
 — Mantenimiento del espacio de trabajo (sombrillas, toallas usadas, etc).
 
 certifications:
-      title: Certifications
+      title: CERTIFICADOS
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: NIVEL BÁSICO EN PREVENCIÓN DE RIESGOS LABORALES
+          start: 13/09/2022
+          end: 30/11/2022
+          organization: IES Jaume I
+          # credentialid: 111-222
+          credentialurl: https://www.iesjaumei.es/
+          credentialname: IES Jaume I
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -125,13 +137,29 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: SOCORRISTA ESPECIALISTA EN ENTORNOS NATURALES Y PLAYAS
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Global Encesap S.L
+          # credentialid: 111-222
+          credentialurl: https://cursossocorrista.com/
+          credentialname: Global Encesap
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+         - name: USO Y MANEJO EN DESFIBRILACIÓN EXTERNO AUTOMATIZADA (DEA) 
+          start: 29/06/2024
+          end: 29/06/2024
+          organization: Global Encesap S.L
+          # credentialid: 111-222
+          credentialurl: https://cursossocorrista.com/
+          credentialname: Global Encesap
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
