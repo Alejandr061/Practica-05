@@ -57,7 +57,7 @@ sidebar:
         - item: Cocinar
           link:
 
-career-profile:
+ # career-profile:
     title: EXPERIENCIA LABORAL
     summary: |
       05/03/2024 – 04/06/2024 Pescara, Italia
@@ -75,7 +75,7 @@ SOCORRISTA DE PISCINA Y AUXILIAR DE SERVICIO MAGIC WORLD
 — Mantenimiento del espacio de trabajo (sombrillas, toallas usadas, etc).
 
 education:
-    title: Education
+    title: EDUCACIÓN Y FORMACIÓN
     info:
       - degree: MSc in Computer Science
         university: University of London
@@ -101,45 +101,20 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: EXPERIENCIA LABORAL
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      05/03/2024 – 04/06/2024 Pescara, Italia
+TÉCNICO IT SISTEMA AZIENDA
+— Mantenimiento de ordenadores
+— Relaciones con los clientes en italiano
+— Configuración de impresoras
+— Virtualización para uso de firewalls en empresas
+— Aprendizaje del uso de Microsoft 365 en el entorno laboral
+28/09/2024 – 19/10/2024 Oropesa, España
+SOCORRISTA DE PISCINA Y AUXILIAR DE SERVICIO MAGIC WORLD
+— Vigilancia de piscina, toboganes, zona de niños, etc.
+— Relaciones con los huéspedes
+— Mantenimiento del espacio de trabajo (sombrillas, toallas usadas, etc).
 
 certifications:
       title: Certifications
