@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Alejandro Hidalgo Sánchez
     tagline: Estudiante de DAM
-    avatar: fotoperfil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: fotoperfil.png # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: alejandro.hidsan2006@gmail.com
@@ -101,17 +101,17 @@ experiences:
     title: EXPERIENCIA LABORAL
     info:
       05/03/2024 – 04/06/2024 Pescara, Italia
-TÉCNICO IT SISTEMA AZIENDA
-— Mantenimiento de ordenadores
-— Relaciones con los clientes en italiano
-— Configuración de impresoras
-— Virtualización para uso de firewalls en empresas
-— Aprendizaje del uso de Microsoft 365 en el entorno laboral
-28/09/2024 – 19/10/2024 Oropesa, España
-SOCORRISTA DE PISCINA Y AUXILIAR DE SERVICIO MAGIC WORLD
-— Vigilancia de piscina, toboganes, zona de niños, etc.
-— Relaciones con los huéspedes
-— Mantenimiento del espacio de trabajo (sombrillas, toallas usadas, etc).
+    TÉCNICO IT SISTEMA AZIENDA
+    — Mantenimiento de ordenadores
+    — Relaciones con los clientes en italiano
+    — Configuración de impresoras
+    — Virtualización para uso de firewalls en empresas
+    — Aprendizaje del uso de Microsoft 365 en el entorno laboral
+    28/09/2024 – 19/10/2024 Oropesa, España
+    SOCORRISTA DE PISCINA Y AUXILIAR DE SERVICIO MAGIC WORLD
+    — Vigilancia de piscina, toboganes, zona de niños, etc.
+    — Relaciones con los huéspedes
+    — Mantenimiento del espacio de trabajo (sombrillas, toallas usadas, etc).
 
 certifications:
       title: CERTIFICADOS
